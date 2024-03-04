@@ -1,4 +1,4 @@
-let billingByState = [
+const billingByState = [
     { abbreviation: 'SP', value: 67836.43 },
     { abbreviation: 'RJ', value: 36678.66 },
     { abbreviation: 'MG', value: 29229.88 },
